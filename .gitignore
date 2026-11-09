@@ -5,6 +5,7 @@
 
 # 编译缓存
 slprj/
+*.slxc
 
 # Simulink 模型二进制（.m 脚本可一键重生成）
 *.slx
