@@ -1,0 +1,10 @@
+# MATLAB 自动保存备份
+*.asv
+*.m~
+*.slx.autosave
+
+# 编译缓存
+slprj/
+
+# Simulink 模型二进制（.m 脚本可一键重生成）
+*.slx
